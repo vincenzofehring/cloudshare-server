@@ -74,7 +74,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601901997064</updated>
-      <workItem from="1601901998199" duration="9182000" />
+      <workItem from="1601901998199" duration="9267000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit of CloudShare">
       <created>1601925243282</created>
@@ -97,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601925451399</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Adding xhtml 1.0 strict doctype">
+      <created>1601925652224</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1601925652224</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,7 +125,8 @@
     <MESSAGE value="Initial commit of CloudShare" />
     <MESSAGE value="$filesfound variable may not be set when used in: if(!$filesfound)" />
     <MESSAGE value="Changed spelling of lisener to listener" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changed spelling of lisener to listener" />
+    <MESSAGE value="Adding xhtml 1.0 strict doctype" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding xhtml 1.0 strict doctype" />
   </component>
   <component name="WindowStateProjectService">
     <state x="228" y="604" key="#SQL_Dialects" timestamp="1601910675013">
