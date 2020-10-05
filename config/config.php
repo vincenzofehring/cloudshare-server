@@ -1,11 +1,3 @@
 <?php
-$CONFIG_ADMINLOGIN='codemonkey';
-$CONFIG_ADMINPASSWORD='123';
-$CONFIG_DATADIRECTORY='/www/testy';
-$CONFIG_HTTPFORCESSL=false;
-$CONFIG_DATEFORMAT='j M Y G:i';
-$CONFIG_DBHOST='localhost';
-$CONFIG_DBNAME='cloudshare';
-$CONFIG_DBUSER='cloudshare';
-$CONFIG_DBPASSWORD='cloudshare';
+
 ?>

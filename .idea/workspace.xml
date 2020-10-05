@@ -11,19 +11,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5beb5dc-dc86-4334-bb21-684cd98cd8f1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/inc/templates/configform.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/config.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/default.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/default.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inc/lib_base.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/lib_base.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inc/lib_files.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/lib_files.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inc/templates/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/templates/footer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inc/templates/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/templates/header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inc/templates/loginform.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/templates/loginform.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/log/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/settings/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webdav/cloudshare.php" beforeDir="false" afterPath="$PROJECT_DIR$/webdav/cloudshare.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/templates/configform.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/templates/configform.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +75,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601901997064</updated>
-      <workItem from="1601901998199" duration="15342000" />
+      <workItem from="1601901998199" duration="16026000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit of CloudShare">
       <created>1601925243282</created>
@@ -206,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601931731087</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Cleanup autoconfiguration wizard, add settings page, make it run from subdirectories, huge cleanup">
+      <created>1601933290302</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1601933290302</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -241,7 +238,8 @@
     <MESSAGE value="Do not assume cloudshare is installed in the root of the webserver" />
     <MESSAGE value="Fix bug where siteroot was not configured." />
     <MESSAGE value="Some more install instructions - mysql" />
-    <option name="LAST_COMMIT_MESSAGE" value="Some more install instructions - mysql" />
+    <MESSAGE value="Cleanup autoconfiguration wizard, add settings page, make it run from subdirectories, huge cleanup" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cleanup autoconfiguration wizard, add settings page, make it run from subdirectories, huge cleanup" />
   </component>
   <component name="WindowStateProjectService">
     <state x="228" y="604" key="#SQL_Dialects" timestamp="1601910675013">
@@ -256,9 +254,9 @@
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
     <state x="660" y="698" key="NewPhpFileDialog/0.25.1680.1025@0.25.1680.1025" timestamp="1601932850842" />
-    <state x="440" y="498" key="Vcs.Push.Dialog.v2" timestamp="1601931305444">
+    <state x="440" y="498" key="Vcs.Push.Dialog.v2" timestamp="1601933291950">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
-    <state x="440" y="498" key="Vcs.Push.Dialog.v2/0.25.1680.1025@0.25.1680.1025" timestamp="1601931305444" />
+    <state x="440" y="498" key="Vcs.Push.Dialog.v2/0.25.1680.1025@0.25.1680.1025" timestamp="1601933291950" />
   </component>
 </project>
