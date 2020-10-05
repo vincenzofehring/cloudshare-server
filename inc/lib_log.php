@@ -59,7 +59,7 @@ class CS_LOG {
      */
     public static function show() {
         global $CONFIG_DATEFORMAT;
-        echo('<center><table cellpadding="6" cellspacing="0" border="0" class="browser">');
+        echo('<div class="center"><table cellpadding="6" cellspacing="0" border="0" class="browser">');
 
         $result = CS_DB::query('select timestamp, user, type, message from log order by timestamp desc limit 20');
         $count = CS_DB::numrows($result);
@@ -73,7 +73,7 @@ class CS_LOG {
             echo('<td class="nametext">' . $entry['message'] . '</td>');
             echo('</tr>');
         }
-        echo('</table></center>');
+        echo('</table></div>');
         CS_DB::free_result($result);
 
     }

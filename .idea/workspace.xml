@@ -14,7 +14,12 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/default.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/default.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/inc/lib_base.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/lib_base.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/lib_files.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/lib_files.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/lib_log.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/lib_log.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/inc/templates/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/templates/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/music/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/music/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/test/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/test/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/settings/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +81,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601901997064</updated>
-      <workItem from="1601901998199" duration="9387000" />
+      <workItem from="1601901998199" duration="9822000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit of CloudShare">
       <created>1601925243282</created>
@@ -113,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601925746601</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="bgcolor is not a valid &quot;xhtml1.0 strict&quot; attribute. Replacing it by a css background-color">
+      <created>1601925878162</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1601925878162</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,7 +148,8 @@
     <MESSAGE value="Changed spelling of lisener to listener" />
     <MESSAGE value="Adding xhtml 1.0 strict doctype" />
     <MESSAGE value="Adding xml namespace" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding xml namespace" />
+    <MESSAGE value="bgcolor is not a valid &quot;xhtml1.0 strict&quot; attribute. Replacing it by a css background-color" />
+    <option name="LAST_COMMIT_MESSAGE" value="bgcolor is not a valid &quot;xhtml1.0 strict&quot; attribute. Replacing it by a css background-color" />
   </component>
   <component name="WindowStateProjectService">
     <state x="228" y="604" key="#SQL_Dialects" timestamp="1601910675013">
