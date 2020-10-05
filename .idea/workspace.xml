@@ -11,29 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5beb5dc-dc86-4334-bb21-684cd98cd8f1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/cloudshare-server.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/config.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/default.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/INSTALL.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/TODO.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/cloudshare.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inc/lib_base.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inc/lib_files.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inc/lib_log.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inc/templates/footer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inc/templates/header.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inc/templates/loginform.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plugins/music/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plugins/music/lib_music.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plugins/test/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plugins/test/lib_test.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webdav/cloudshare.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +30,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1iSXWGEG0P98OQvtATJolJRdRgv" />
@@ -90,8 +74,86 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601901997064</updated>
-      <workItem from="1601901998199" duration="8730000" />
+      <workItem from="1601901998199" duration="11030000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit of CloudShare">
+      <created>1601925243282</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601925243282</updated>
+    </task>
+    <task id="LOCAL-00002" summary="$filesfound variable may not be set when used in: if(!$filesfound)">
+      <created>1601925379813</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601925379813</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Changed spelling of lisener to listener">
+      <created>1601925451399</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1601925451399</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Adding xhtml 1.0 strict doctype">
+      <created>1601925652224</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1601925652224</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Adding xml namespace">
+      <created>1601925746601</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1601925746601</updated>
+    </task>
+    <task id="LOCAL-00006" summary="bgcolor is not a valid &quot;xhtml1.0 strict&quot; attribute. Replacing it by a css background-color">
+      <created>1601925878162</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1601925878162</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Center is not a valid strict xhtml1.0 tag (not semantic). At least replacing it by a div with &quot;center&quot; class.">
+      <created>1601926352614</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1601926352614</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Adding semantic h1 tag to surround the logo. This could be better for text or braille navigators and crawlers as well.">
+      <created>1601926516959</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1601926516959</updated>
+    </task>
+    <task id="LOCAL-00009" summary="&lt;br /&gt; is not a valid strict xhtml1.0 tag. Not semantic. Replacing it by CSS instructions on semantic tags.">
+      <created>1601928026087</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1601928026087</updated>
+    </task>
+    <task id="LOCAL-00010" summary="&quot;border&quot; attribute is not a valid attribute for &lt;img /&gt; tags. Using proper CSS instructions instead.">
+      <created>1601928138456</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1601928138456</updated>
+    </task>
+    <task id="LOCAL-00011" summary="&lt;img /&gt; tags need alternative content with &quot;alt&quot; attribute. &quot;dots.png&quot; is not a content. Using CSS backgrounds instead.">
+      <created>1601928226290</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1601928226290</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,6 +170,20 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit of CloudShare" />
+    <MESSAGE value="$filesfound variable may not be set when used in: if(!$filesfound)" />
+    <MESSAGE value="Changed spelling of lisener to listener" />
+    <MESSAGE value="Adding xhtml 1.0 strict doctype" />
+    <MESSAGE value="Adding xml namespace" />
+    <MESSAGE value="bgcolor is not a valid &quot;xhtml1.0 strict&quot; attribute. Replacing it by a css background-color" />
+    <MESSAGE value="Center is not a valid strict xhtml1.0 tag (not semantic). At least replacing it by a div with &quot;center&quot; class." />
+    <MESSAGE value="Adding semantic h1 tag to surround the logo. This could be better for text or braille navigators and crawlers as well." />
+    <MESSAGE value="&lt;br /&gt; is not a valid strict xhtml1.0 tag. Not semantic. Replacing it by CSS instructions on semantic tags." />
+    <MESSAGE value="&quot;border&quot; attribute is not a valid attribute for &lt;img /&gt; tags. Using proper CSS instructions instead." />
+    <MESSAGE value="&lt;img /&gt; tags need alternative content with &quot;alt&quot; attribute. &quot;dots.png&quot; is not a content. Using CSS backgrounds instead." />
+    <option name="LAST_COMMIT_MESSAGE" value="&lt;img /&gt; tags need alternative content with &quot;alt&quot; attribute. &quot;dots.png&quot; is not a content. Using CSS backgrounds instead." />
+  </component>
   <component name="WindowStateProjectService">
     <state x="228" y="604" key="#SQL_Dialects" timestamp="1601910675013">
       <screen x="0" y="25" width="1680" height="1025" />
@@ -117,5 +193,9 @@
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
     <state x="660" y="698" key="NewPhpFileDialog/0.25.1680.1025@0.25.1680.1025" timestamp="1601924536419" />
+    <state x="440" y="498" key="Vcs.Push.Dialog.v2" timestamp="1601926518880">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="440" y="498" key="Vcs.Push.Dialog.v2/0.25.1680.1025@0.25.1680.1025" timestamp="1601926518880" />
   </component>
 </project>

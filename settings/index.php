@@ -26,9 +26,9 @@ require_once('../config/config.php');
 
 CS_UTIL::showheader();
 
-echo('<center>');
+echo('<div class="center">');
 echo('nothing here yet :-)');
-echo('</center><br /><br />');
+echo('</div>');
 
 
 CS_UTIL::showfooter();
