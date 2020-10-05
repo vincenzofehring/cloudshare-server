@@ -13,9 +13,7 @@
     <list default="true" id="c5beb5dc-dc86-4334-bb21-684cd98cd8f1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/config.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/default.php" beforeDir="false" afterPath="$PROJECT_DIR$/css/default.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inc/templates/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/templates/header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/log/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/lib_base.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/lib_base.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +75,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601901997064</updated>
-      <workItem from="1601901998199" duration="19188000" />
+      <workItem from="1601901998199" duration="19853000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit of CloudShare">
       <created>1601925243282</created>
@@ -261,7 +259,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601937195643</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Small css and path fixes">
+      <created>1601937504886</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1601937504886</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -279,7 +284,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="$filesfound variable may not be set when used in: if(!$filesfound)" />
     <MESSAGE value="Changed spelling of lisener to listener" />
     <MESSAGE value="Adding xhtml 1.0 strict doctype" />
     <MESSAGE value="Adding xml namespace" />
@@ -304,7 +308,8 @@
     <MESSAGE value="Using base tag solves issue when cloudshare installed in subdirectory" />
     <MESSAGE value="Removed extra space" />
     <MESSAGE value="Minor W3C aspects." />
-    <option name="LAST_COMMIT_MESSAGE" value="Minor W3C aspects." />
+    <MESSAGE value="Small css and path fixes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Small css and path fixes" />
   </component>
   <component name="WindowStateProjectService">
     <state x="228" y="604" key="#SQL_Dialects" timestamp="1601910675013">
