@@ -11,8 +11,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5beb5dc-dc86-4334-bb21-684cd98cd8f1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/lib_base.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/lib_base.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/templates/loginform.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/templates/loginform.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601901997064</updated>
-      <workItem from="1601901998199" duration="11030000" />
+      <workItem from="1601901998199" duration="13357000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit of CloudShare">
       <created>1601925243282</created>
@@ -153,7 +155,28 @@
       <option name="project" value="LOCAL" />
       <updated>1601928226290</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Added README.md">
+      <created>1601928384225</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1601928384225</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Add some install instructions.">
+      <created>1601928627368</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1601928627368</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Ask for configuration on first run.">
+      <created>1601929999187</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1601929999187</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,20 +205,27 @@
     <MESSAGE value="&lt;br /&gt; is not a valid strict xhtml1.0 tag. Not semantic. Replacing it by CSS instructions on semantic tags." />
     <MESSAGE value="&quot;border&quot; attribute is not a valid attribute for &lt;img /&gt; tags. Using proper CSS instructions instead." />
     <MESSAGE value="&lt;img /&gt; tags need alternative content with &quot;alt&quot; attribute. &quot;dots.png&quot; is not a content. Using CSS backgrounds instead." />
-    <option name="LAST_COMMIT_MESSAGE" value="&lt;img /&gt; tags need alternative content with &quot;alt&quot; attribute. &quot;dots.png&quot; is not a content. Using CSS backgrounds instead." />
+    <MESSAGE value="Added README.md" />
+    <MESSAGE value="Add some install instructions." />
+    <MESSAGE value="Ask for configuration on first run." />
+    <option name="LAST_COMMIT_MESSAGE" value="Ask for configuration on first run." />
   </component>
   <component name="WindowStateProjectService">
     <state x="228" y="604" key="#SQL_Dialects" timestamp="1601910675013">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
     <state x="228" y="604" key="#SQL_Dialects/0.25.1680.1025@0.25.1680.1025" timestamp="1601910675013" />
+    <state x="428" y="517" key="IDE.errors.dialog" timestamp="1601930009973">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="428" y="517" key="IDE.errors.dialog/0.25.1680.1025@0.25.1680.1025" timestamp="1601930009973" />
     <state x="660" y="698" key="NewPhpFileDialog" timestamp="1601924536419">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
     <state x="660" y="698" key="NewPhpFileDialog/0.25.1680.1025@0.25.1680.1025" timestamp="1601924536419" />
-    <state x="440" y="498" key="Vcs.Push.Dialog.v2" timestamp="1601926518880">
+    <state x="440" y="498" key="Vcs.Push.Dialog.v2" timestamp="1601930000658">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
-    <state x="440" y="498" key="Vcs.Push.Dialog.v2/0.25.1680.1025@0.25.1680.1025" timestamp="1601926518880" />
+    <state x="440" y="498" key="Vcs.Push.Dialog.v2/0.25.1680.1025@0.25.1680.1025" timestamp="1601930000658" />
   </component>
 </project>
