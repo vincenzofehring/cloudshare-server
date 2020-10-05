@@ -11,12 +11,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5beb5dc-dc86-4334-bb21-684cd98cd8f1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/inc/lib_config.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inc/lib_base.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/lib_base.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inc/templates/configform.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/templates/configform.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inc/templates/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/templates/header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/settings/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/music/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/music/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/test/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/test/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +75,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601901997064</updated>
-      <workItem from="1601901998199" duration="17052000" />
+      <workItem from="1601901998199" duration="17106000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit of CloudShare">
       <created>1601925243282</created>
@@ -213,7 +210,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601934302348</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Moved the config functions to /inc/lib_config.php">
+      <created>1601935340026</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1601935340026</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -250,7 +254,8 @@
     <MESSAGE value="Some more install instructions - mysql" />
     <MESSAGE value="Cleanup autoconfiguration wizard, add settings page, make it run from subdirectories, huge cleanup" />
     <MESSAGE value="Sync" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sync" />
+    <MESSAGE value="Moved the config functions to /inc/lib_config.php" />
+    <option name="LAST_COMMIT_MESSAGE" value="Moved the config functions to /inc/lib_config.php" />
   </component>
   <component name="WindowStateProjectService">
     <state x="228" y="604" key="#SQL_Dialects" timestamp="1601910675013">
