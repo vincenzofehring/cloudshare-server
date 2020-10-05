@@ -3,25 +3,37 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <title>CloudShare</title>
-    <link rel="stylesheet" type="text/css" href="/css/default.css" />
+    <link rel="stylesheet" type="text/css" href="<?php echo ($WEBROOT); ?>/css/default.php" />
 </head>
 <body>
-<h1><a id="cloudshare-logo" href="/"><span>CloudShare</span></a></h1>
 <?php
+    echo('<h1><a id="cloudshare-logo" href="' . $WEBROOT . '/"><span>CloudShare</span></a></h1>');
 
+
+    // Check if already configured. Otherwise start configuration wizard
+    $error = CS_UTIL::writeconfiglisener();
+    if (empty($CONFIG_ADMINLOGIN)) {
+        echo('<div class="center">');
+        echo('<p class="errortext">' . $error . '</p>');
+        echo('<p class="highlighttext">First Run Wizard</p>');
+        CS_UTIL::showconfigform();
+        echo('</div>');
+        CS_UTIL::showfooter();
+        exit();
+    }
+
+
+    // Show the loginform if not logged in
     if (!isset($_SESSION['username']) or $_SESSION['username'] == '') {
-
         echo('<div class="center">');
         CS_UTIL::showloginform();
         echo('</div>');
         CS_UTIL::showfooter();
         exit();
     } else {
-
         echo('<div id="nav" class="center">');
         CS_UTIL::shownavigation();
         echo('</div>');
-
     }
 
 ?>

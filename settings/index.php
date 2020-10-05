@@ -22,12 +22,12 @@
 
 
 
-require_once('../config/config.php');
+require_once('../inc/lib_base.php');
 
 CS_UTIL::showheader();
 
 echo('<div class="center">');
-echo('nothing here yet :-)');
+CS_UTIL::showconfigform();
 echo('</div>');
 
 

@@ -21,8 +21,7 @@
 
 
 
-
-require_once ('config/config.php');
+require_once('inc/lib_base.php');
 
 if (isset($_GET['dir'])) $dir = $_GET['dir']; else $dir = '';
 
@@ -32,14 +31,12 @@ if (isset($_GET['file'])) {
 
 } else {
 
-    CS_USER::loginlisener();;
-    CS_USER::logoutlisener();
 
     CS_UTIL::showheader();
 
     CS_FILES::showbrowser($CONFIG_DATADIRECTORY, $dir);
 
-    echo('<br /><br /><p class="hint">Hint: Mount it via webdav like this: <a href="webdav://' . $CONFIG_SITEROOT . '/webdav/cloudshare.php">webdav://' . $CONFIG_SITEROOT . '/webdav/cloudshare.php</a></p>');
+    echo('<br /><br /><p class="hint">Hint: Mount it via webdav like this: <a href="webdav://' . $_SERVER["HTTP_HOST"] . $WEBROOT . '/webdav/cloudshare.php">webdav://' . $_SERVER["HTTP_HOST"] . $WEBROOT . '/webdav/cloudshare.php</a></p>');
 
     CS_UTIL::showfooter();
 

@@ -1,8 +1,6 @@
 <p class="footer">
     <?php
-    echo($CONFIG_FOOTEROWNERNAME);
-    echo(' - ');
-    echo($CONFIG_FOOTEROWNEREMAIL);
+    echo('<a href="https://codemonkeyssoftware.com">Code Monkeys Software</a> - 0.0.1');
     ?>
 </p>
 </body></html>
