@@ -60,9 +60,9 @@ class CS_FILES {
 
         // Files and directories
         echo('<center><table cellpadding="6" cellspacing="0" border="0" class="browser">');
+        $filesfound = false;
         if (is_dir($directory)) {
             if ($dh = opendir($directory)) {
-                $filesfound = false;
                 while (($file = readdir($dh)) !== false) {
                     if ($file <> '.' and $file <> '..') {
                         $filesfound = true;
