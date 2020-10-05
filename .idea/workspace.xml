@@ -14,7 +14,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/default.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/default.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/inc/lib_base.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/lib_base.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inc/lib_files.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/lib_files.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +75,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601901997064</updated>
-      <workItem from="1601901998199" duration="10771000" />
+      <workItem from="1601901998199" duration="10855000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit of CloudShare">
       <created>1601925243282</created>
@@ -141,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601928026087</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="&quot;border&quot; attribute is not a valid attribute for &lt;img /&gt; tags. Using proper CSS instructions instead.">
+      <created>1601928138456</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1601928138456</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,7 +174,8 @@
     <MESSAGE value="Center is not a valid strict xhtml1.0 tag (not semantic). At least replacing it by a div with &quot;center&quot; class." />
     <MESSAGE value="Adding semantic h1 tag to surround the logo. This could be better for text or braille navigators and crawlers as well." />
     <MESSAGE value="&lt;br /&gt; is not a valid strict xhtml1.0 tag. Not semantic. Replacing it by CSS instructions on semantic tags." />
-    <option name="LAST_COMMIT_MESSAGE" value="&lt;br /&gt; is not a valid strict xhtml1.0 tag. Not semantic. Replacing it by CSS instructions on semantic tags." />
+    <MESSAGE value="&quot;border&quot; attribute is not a valid attribute for &lt;img /&gt; tags. Using proper CSS instructions instead." />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;border&quot; attribute is not a valid attribute for &lt;img /&gt; tags. Using proper CSS instructions instead." />
   </component>
   <component name="WindowStateProjectService">
     <state x="228" y="604" key="#SQL_Dialects" timestamp="1601910675013">
