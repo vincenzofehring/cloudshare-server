@@ -11,7 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5beb5dc-dc86-4334-bb21-684cd98cd8f1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/docs/INSTALL.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/INSTALL.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/config.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +74,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601901997064</updated>
-      <workItem from="1601901998199" duration="11273000" />
+      <workItem from="1601901998199" duration="12634000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit of CloudShare">
       <created>1601925243282</created>
@@ -159,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601928384225</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Add some install instructions.">
+      <created>1601928627368</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1601928627368</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -189,7 +197,8 @@
     <MESSAGE value="&quot;border&quot; attribute is not a valid attribute for &lt;img /&gt; tags. Using proper CSS instructions instead." />
     <MESSAGE value="&lt;img /&gt; tags need alternative content with &quot;alt&quot; attribute. &quot;dots.png&quot; is not a content. Using CSS backgrounds instead." />
     <MESSAGE value="Added README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added README.md" />
+    <MESSAGE value="Add some install instructions." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add some install instructions." />
   </component>
   <component name="WindowStateProjectService">
     <state x="228" y="604" key="#SQL_Dialects" timestamp="1601910675013">
