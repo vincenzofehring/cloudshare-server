@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c5beb5dc-dc86-4334-bb21-684cd98cd8f1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/cloudshare-server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/default.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/INSTALL.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/TODO.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/cloudshare.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inc/lib_base.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inc/lib_files.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inc/lib_log.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inc/templates/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inc/templates/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inc/templates/loginform.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/music/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/music/lib_music.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/test/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/test/lib_test.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webdav/cloudshare.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1iSXWGEG0P98OQvtATJolJRdRgv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="music" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner directory="$PROJECT_DIR$/plugins/music" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHPUnit.music" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5beb5dc-dc86-4334-bb21-684cd98cd8f1" name="Default Changelist" comment="" />
+      <created>1601901997064</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601901997064</updated>
+      <workItem from="1601901998199" duration="8730000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="228" y="604" key="#SQL_Dialects" timestamp="1601910675013">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="228" y="604" key="#SQL_Dialects/0.25.1680.1025@0.25.1680.1025" timestamp="1601910675013" />
+    <state x="660" y="698" key="NewPhpFileDialog" timestamp="1601924536419">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="660" y="698" key="NewPhpFileDialog/0.25.1680.1025@0.25.1680.1025" timestamp="1601924536419" />
+  </component>
+</project>
