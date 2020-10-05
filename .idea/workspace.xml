@@ -12,8 +12,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c5beb5dc-dc86-4334-bb21-684cd98cd8f1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/music/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/music/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/test/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/test/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/lib_base.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/lib_base.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +74,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601901997064</updated>
-      <workItem from="1601901998199" duration="17106000" />
+      <workItem from="1601901998199" duration="17204000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit of CloudShare">
       <created>1601925243282</created>
@@ -217,7 +216,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601935340026</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Update includes">
+      <created>1601935383628</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1601935383628</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -255,7 +261,8 @@
     <MESSAGE value="Cleanup autoconfiguration wizard, add settings page, make it run from subdirectories, huge cleanup" />
     <MESSAGE value="Sync" />
     <MESSAGE value="Moved the config functions to /inc/lib_config.php" />
-    <option name="LAST_COMMIT_MESSAGE" value="Moved the config functions to /inc/lib_config.php" />
+    <MESSAGE value="Update includes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update includes" />
   </component>
   <component name="WindowStateProjectService">
     <state x="228" y="604" key="#SQL_Dialects" timestamp="1601910675013">
