@@ -15,12 +15,6 @@
       <change beforePath="$PROJECT_DIR$/css/default.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/default.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/inc/lib_base.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/lib_base.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/inc/lib_files.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/lib_files.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inc/templates/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/templates/footer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inc/templates/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/templates/header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/music/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/music/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/test/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/test/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/settings/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601901997064</updated>
-      <workItem from="1601901998199" duration="10646000" />
+      <workItem from="1601901998199" duration="10771000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit of CloudShare">
       <created>1601925243282</created>
@@ -140,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601926516959</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="&lt;br /&gt; is not a valid strict xhtml1.0 tag. Not semantic. Replacing it by CSS instructions on semantic tags.">
+      <created>1601928026087</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1601928026087</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -166,7 +167,8 @@
     <MESSAGE value="bgcolor is not a valid &quot;xhtml1.0 strict&quot; attribute. Replacing it by a css background-color" />
     <MESSAGE value="Center is not a valid strict xhtml1.0 tag (not semantic). At least replacing it by a div with &quot;center&quot; class." />
     <MESSAGE value="Adding semantic h1 tag to surround the logo. This could be better for text or braille navigators and crawlers as well." />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding semantic h1 tag to surround the logo. This could be better for text or braille navigators and crawlers as well." />
+    <MESSAGE value="&lt;br /&gt; is not a valid strict xhtml1.0 tag. Not semantic. Replacing it by CSS instructions on semantic tags." />
+    <option name="LAST_COMMIT_MESSAGE" value="&lt;br /&gt; is not a valid strict xhtml1.0 tag. Not semantic. Replacing it by CSS instructions on semantic tags." />
   </component>
   <component name="WindowStateProjectService">
     <state x="228" y="604" key="#SQL_Dialects" timestamp="1601910675013">
