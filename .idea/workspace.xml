@@ -13,7 +13,14 @@
     <list default="true" id="c5beb5dc-dc86-4334-bb21-684cd98cd8f1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/default.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/default.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/lib_base.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/lib_base.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/lib_files.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/lib_files.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/templates/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/templates/footer.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/inc/templates/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/templates/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/music/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/music/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/test/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/test/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/settings/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +82,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601901997064</updated>
-      <workItem from="1601901998199" duration="9947000" />
+      <workItem from="1601901998199" duration="10646000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit of CloudShare">
       <created>1601925243282</created>
@@ -126,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601926352614</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Adding semantic h1 tag to surround the logo. This could be better for text or braille navigators and crawlers as well.">
+      <created>1601926516959</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1601926516959</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,7 +165,8 @@
     <MESSAGE value="Adding xml namespace" />
     <MESSAGE value="bgcolor is not a valid &quot;xhtml1.0 strict&quot; attribute. Replacing it by a css background-color" />
     <MESSAGE value="Center is not a valid strict xhtml1.0 tag (not semantic). At least replacing it by a div with &quot;center&quot; class." />
-    <option name="LAST_COMMIT_MESSAGE" value="Center is not a valid strict xhtml1.0 tag (not semantic). At least replacing it by a div with &quot;center&quot; class." />
+    <MESSAGE value="Adding semantic h1 tag to surround the logo. This could be better for text or braille navigators and crawlers as well." />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding semantic h1 tag to surround the logo. This could be better for text or braille navigators and crawlers as well." />
   </component>
   <component name="WindowStateProjectService">
     <state x="228" y="604" key="#SQL_Dialects" timestamp="1601910675013">
@@ -162,9 +177,9 @@
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
     <state x="660" y="698" key="NewPhpFileDialog/0.25.1680.1025@0.25.1680.1025" timestamp="1601924536419" />
-    <state x="440" y="507" key="Vcs.Push.Dialog.v2" timestamp="1601925245324">
+    <state x="440" y="498" key="Vcs.Push.Dialog.v2" timestamp="1601926518880">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
-    <state x="440" y="507" key="Vcs.Push.Dialog.v2/0.25.1680.1025@0.25.1680.1025" timestamp="1601925245324" />
+    <state x="440" y="498" key="Vcs.Push.Dialog.v2/0.25.1680.1025@0.25.1680.1025" timestamp="1601926518880" />
   </component>
 </project>

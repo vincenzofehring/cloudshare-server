@@ -29,7 +29,7 @@ CS_UTIL::showheader();
 
 echo('<div class="center">');
 echo('nothing here yet :-)');
-echo('</div><br /><br />');
+echo('</div>');
 
 
 CS_UTIL::showfooter();
