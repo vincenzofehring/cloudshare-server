@@ -12,9 +12,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c5beb5dc-dc86-4334-bb21-684cd98cd8f1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inc/lib_base.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/lib_base.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inc/templates/loginform.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/templates/loginform.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/config.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +74,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601901997064</updated>
-      <workItem from="1601901998199" duration="13357000" />
+      <workItem from="1601901998199" duration="13657000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit of CloudShare">
       <created>1601925243282</created>
@@ -176,7 +174,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601929999187</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Do not assume cloudshare is installed in the root of the webserver">
+      <created>1601931304072</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1601931304072</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -208,7 +213,8 @@
     <MESSAGE value="Added README.md" />
     <MESSAGE value="Add some install instructions." />
     <MESSAGE value="Ask for configuration on first run." />
-    <option name="LAST_COMMIT_MESSAGE" value="Ask for configuration on first run." />
+    <MESSAGE value="Do not assume cloudshare is installed in the root of the webserver" />
+    <option name="LAST_COMMIT_MESSAGE" value="Do not assume cloudshare is installed in the root of the webserver" />
   </component>
   <component name="WindowStateProjectService">
     <state x="228" y="604" key="#SQL_Dialects" timestamp="1601910675013">
@@ -223,9 +229,9 @@
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
     <state x="660" y="698" key="NewPhpFileDialog/0.25.1680.1025@0.25.1680.1025" timestamp="1601924536419" />
-    <state x="440" y="498" key="Vcs.Push.Dialog.v2" timestamp="1601930000658">
+    <state x="440" y="498" key="Vcs.Push.Dialog.v2" timestamp="1601931305444">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
-    <state x="440" y="498" key="Vcs.Push.Dialog.v2/0.25.1680.1025@0.25.1680.1025" timestamp="1601930000658" />
+    <state x="440" y="498" key="Vcs.Push.Dialog.v2/0.25.1680.1025@0.25.1680.1025" timestamp="1601931305444" />
   </component>
 </project>
