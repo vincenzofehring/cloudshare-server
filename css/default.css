@@ -17,7 +17,7 @@ a#cloudshare-logo {
     display: block;
     width: 200px;
     height: 99px;
-    background: transparent url(/img/cloudshare-logo-small.png) no-repeat scroll 0 0;
+    background: transparent url(img/cloudshare-logo-small.png) no-repeat scroll 0 0;
 }
 
 a#cloudshare-logo span {
