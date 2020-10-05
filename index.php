@@ -32,8 +32,8 @@ if (isset($_GET['file'])) {
 
 } else {
 
-    CS_USER::loginlisener();;
-    CS_USER::logoutlisener();
+    CS_USER::loginlistener();;
+    CS_USER::logoutlistener();
 
     CS_UTIL::showheader();
 
