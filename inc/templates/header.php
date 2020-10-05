@@ -8,7 +8,7 @@
 </head>
 <body>
 <?php
-    echo('<h1><a id="cloudshare-logo" href="/' . $WEBROOT . '/"><span>CloudShare</span></a></h1>');
+    echo('<h1><a id="cloudshare-logo" href="/' . $WEBROOT . '"><span>CloudShare</span></a></h1>');
 
 
     // Check if already configured. Otherwise start configuration wizard
