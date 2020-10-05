@@ -5,7 +5,7 @@
     <title>CloudShare</title>
     <link rel="stylesheet" type="text/css" href="/css/default.css" />
 </head>
-<body bgcolor="#F9F9F9">
+<body>
 <center><a href="/"><img src="img/cloudshare-logo-small.png" border="0"></a></center>
 <?php
 

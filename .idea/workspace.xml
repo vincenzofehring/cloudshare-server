@@ -12,6 +12,8 @@
   <component name="ChangeListManager">
     <list default="true" id="c5beb5dc-dc86-4334-bb21-684cd98cd8f1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/default.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/default.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/lib_base.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/lib_base.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/inc/templates/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/templates/header.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601901997064</updated>
-      <workItem from="1601901998199" duration="9267000" />
+      <workItem from="1601901998199" duration="9387000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit of CloudShare">
       <created>1601925243282</created>
@@ -104,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601925652224</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Adding xml namespace">
+      <created>1601925746601</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1601925746601</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,7 +135,8 @@
     <MESSAGE value="$filesfound variable may not be set when used in: if(!$filesfound)" />
     <MESSAGE value="Changed spelling of lisener to listener" />
     <MESSAGE value="Adding xhtml 1.0 strict doctype" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding xhtml 1.0 strict doctype" />
+    <MESSAGE value="Adding xml namespace" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding xml namespace" />
   </component>
   <component name="WindowStateProjectService">
     <state x="228" y="604" key="#SQL_Dialects" timestamp="1601910675013">
