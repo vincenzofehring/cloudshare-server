@@ -12,7 +12,9 @@
 
     // Check if already configured. Otherwise start configuration wizard
     $error = CS_CONFIG::writeconfiglisener();
+    echo $error;
     if (empty($CONFIG_ADMINLOGIN)) {
+        $FIRSTRUN=true;
         echo('<div class="center">');
         echo('<p class="errortext">' . $error . '</p>');
         echo('<p class="highlighttext">First Run Wizard</p>');

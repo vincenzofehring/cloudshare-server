@@ -12,7 +12,11 @@
   <component name="ChangeListManager">
     <list default="true" id="c5beb5dc-dc86-4334-bb21-684cd98cd8f1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inc/lib_base.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/lib_base.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/lib_config.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/lib_config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/templates/configform.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/templates/configform.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/templates/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/templates/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/settings/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +78,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601901997064</updated>
-      <workItem from="1601901998199" duration="17204000" />
+      <workItem from="1601901998199" duration="17788000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit of CloudShare">
       <created>1601925243282</created>
@@ -223,7 +227,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601935383628</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Fixed bug when checking if a navigation item made by a plugin is selected.">
+      <created>1601935553167</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1601935553167</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -262,7 +273,8 @@
     <MESSAGE value="Sync" />
     <MESSAGE value="Moved the config functions to /inc/lib_config.php" />
     <MESSAGE value="Update includes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update includes" />
+    <MESSAGE value="Fixed bug when checking if a navigation item made by a plugin is selected." />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed bug when checking if a navigation item made by a plugin is selected." />
   </component>
   <component name="WindowStateProjectService">
     <state x="228" y="604" key="#SQL_Dialects" timestamp="1601910675013">
