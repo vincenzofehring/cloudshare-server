@@ -11,12 +11,12 @@
 
 
     // Check if already configured. Otherwise start configuration wizard
-    $error = CS_UTIL::writeconfiglisener();
+    $error = CS_CONFIG::writeconfiglisener();
     if (empty($CONFIG_ADMINLOGIN)) {
         echo('<div class="center">');
         echo('<p class="errortext">' . $error . '</p>');
         echo('<p class="highlighttext">First Run Wizard</p>');
-        CS_UTIL::showconfigform();
+        CS_CONFIG::showconfigform();
         echo('</div>');
         CS_UTIL::showfooter();
         exit();
