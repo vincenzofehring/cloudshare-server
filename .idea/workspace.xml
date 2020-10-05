@@ -12,9 +12,10 @@
   <component name="ChangeListManager">
     <list default="true" id="c5beb5dc-dc86-4334-bb21-684cd98cd8f1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inc/templates/configform.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/templates/configform.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/default.php" beforeDir="false" afterPath="$PROJECT_DIR$/css/default.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/inc/templates/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/templates/header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inc/templates/loginform.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/templates/loginform.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/log/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +77,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601901997064</updated>
-      <workItem from="1601901998199" duration="18889000" />
+      <workItem from="1601901998199" duration="19188000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit of CloudShare">
       <created>1601925243282</created>
@@ -253,7 +254,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601936898724</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Minor W3C aspects.">
+      <created>1601937195643</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1601937195643</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -271,7 +279,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Initial commit of CloudShare" />
     <MESSAGE value="$filesfound variable may not be set when used in: if(!$filesfound)" />
     <MESSAGE value="Changed spelling of lisener to listener" />
     <MESSAGE value="Adding xhtml 1.0 strict doctype" />
@@ -296,7 +303,8 @@
     <MESSAGE value="Ask for current password when editing the settings" />
     <MESSAGE value="Using base tag solves issue when cloudshare installed in subdirectory" />
     <MESSAGE value="Removed extra space" />
-    <option name="LAST_COMMIT_MESSAGE" value="Removed extra space" />
+    <MESSAGE value="Minor W3C aspects." />
+    <option name="LAST_COMMIT_MESSAGE" value="Minor W3C aspects." />
   </component>
   <component name="WindowStateProjectService">
     <state x="228" y="604" key="#SQL_Dialects" timestamp="1601910675013">
@@ -311,9 +319,9 @@
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
     <state x="660" y="698" key="NewPhpFileDialog/0.25.1680.1025@0.25.1680.1025" timestamp="1601934968588" />
-    <state x="440" y="498" key="Vcs.Push.Dialog.v2" timestamp="1601936087807">
+    <state x="440" y="498" key="Vcs.Push.Dialog.v2" timestamp="1601937197574">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
-    <state x="440" y="498" key="Vcs.Push.Dialog.v2/0.25.1680.1025@0.25.1680.1025" timestamp="1601936087807" />
+    <state x="440" y="498" key="Vcs.Push.Dialog.v2/0.25.1680.1025@0.25.1680.1025" timestamp="1601937197574" />
   </component>
 </project>
